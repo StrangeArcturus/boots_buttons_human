@@ -1,1 +1,10 @@
 отличий между ветками `demo` и `master` не обнаружено
+
+видно 7 коммитов из удалённого репозитория:
+  `Merge branch 'boots' into boots_buttons`
+  `Merge branch 'buttons' into boots_buttons`
+  `fix`
+  `Merge branch 'hat'`
+  `Merge branch 'boots_buttons'`
+  `done hometask`
+  `master fix`
